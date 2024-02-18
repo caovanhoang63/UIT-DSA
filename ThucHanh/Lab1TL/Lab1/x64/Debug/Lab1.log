@@ -1,0 +1,2 @@
+﻿Source1.obj : error LNK2005: main already defined in Source.obj
+C:\Users\Hoang\Desktop\UIT With Love\DSA\ThucHanh\Lab1\Lab1\x64\Debug\Lab1.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,5 @@
+﻿  CayNhiPhan.cpp
+C:\Users\Hoang\Desktop\UIT With Love\DSA\ThucHanh\Lab5\CayNhiPhan\CayNhiPhan.cpp(91,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Hoang\Desktop\UIT With Love\DSA\ThucHanh\Lab5\CayNhiPhan\CayNhiPhan.cpp(194): warning C4715: 'timNodeCoGiaTriX': not all control paths return a value
+C:\Users\Hoang\Desktop\UIT With Love\DSA\ThucHanh\Lab5\CayNhiPhan\CayNhiPhan.cpp(237): warning C4715: 'demNodeCoMotCayCon': not all control paths return a value
+  CayNhiPhan.vcxproj -> C:\Users\Hoang\Desktop\UIT With Love\DSA\ThucHanh\Lab5\x64\Debug\CayNhiPhan.exe

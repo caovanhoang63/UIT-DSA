@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\Hoang\Desktop\UIT With Love\Cấu trúc dữ liệu và giải thuật\Solution1\Bai49_truyentin\Source.cpp(74): error C4700: uninitialized local variable 'k' used
